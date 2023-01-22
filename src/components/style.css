@@ -1,0 +1,8 @@
+.carousel{
+   margin: 0 auto;
+}
+@media (max-width:600px){
+   .carousel_image{
+      height: 10rem !important;
+   }
+}
